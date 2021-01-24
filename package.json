@@ -1,0 +1,14 @@
+{
+  "name": "com.fo2rist.ljexport",
+  "version": "1.0.0",
+  "description": "Export posts from LJ account",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "fo2rist",
+  "license": "MIT",
+  "dependencies": {
+    "livejournal": "^0.1.2"
+  }
+}
